@@ -2,7 +2,7 @@
 
 ## how to use
 
-```js
+```txt
 git clone https://github.com/PartyZzzan77/mongo-REST.git
 cd mongo-API
 npm install
@@ -11,8 +11,12 @@ npm start
 
 ## Then, for example, in postman, listen to the address
 
-```js
-localhost: 3000 / movies;
+```txt
+localhost:3000/movies
+
+//You can also make a request at:
+
+https://mongo-api-express.onrender.com/movies
 ```
 
 ## Standard CRUD operations are available for tests, the body must be in json format
